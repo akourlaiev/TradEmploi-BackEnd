@@ -4,3 +4,7 @@ translation-app-assessment/backend/.DS_Store
 .gitignore
 .DS_Store
 .idea/
+translation-app-assessment/backend/gpt-oss-20b/cahier.sh
+translation-app-assessment/backend/mms-tts-api/cahier.sh
+translation-app-assessment/backend/mms-asr-api/models/*
+translation-app-assessment/backend/mms-tts-api/models/*
